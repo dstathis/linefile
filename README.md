@@ -1,2 +1,2 @@
 # linefile
-Line in File
+Ensure a line is in a file
